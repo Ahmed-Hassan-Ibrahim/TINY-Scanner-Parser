@@ -25,13 +25,14 @@
        style="border-radius: 30px;"/>
 </p>
 
+4. Press on lexer to scan for tokens
 <p align="center">
   <img src="./Images/GUI3.png"
        width="100%" 
        style="border-radius: 30px;"/>
 </p>
 
-4. Press on parser to draw Syntax Tree
+5. Press on parser to draw Syntax Tree
 <p align="center">
   <img src="./Images/GUI4.png"
        width="100%" 
